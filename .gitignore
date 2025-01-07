@@ -1,4 +1,6 @@
+classes.npy
 Data
 Data/wajah
 Data/wajah/augment
 Data/wajah/crop
+model.h5
