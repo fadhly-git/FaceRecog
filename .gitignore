@@ -4,3 +4,4 @@ Data/wajah
 Data/wajah/augment
 Data/wajah/crop
 model.h5
+face_recognition_mlp_model.h5
