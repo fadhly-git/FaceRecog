@@ -32,7 +32,7 @@ This project focuses on facial recognition using feature extraction and classifi
    conda create --name face_recognition python=3.9
    conda activate face_recognition
    ```
-  ```bash
+   ```bash
    conda create --name albumentations python=3.8
    conda activate albumentations
    ```
