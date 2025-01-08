@@ -71,7 +71,11 @@ This project focuses on facial recognition using feature extraction and classifi
 ### Real-Time Recognition Output:
 When a face is recognized, the output will be displayed as follows:
 ```text
-Detected: Person_A
+Tombol ditekan, melakukan pengenalan...
+Wajah terdeteksi di posisi: 161, 59, 225, 225
+Fitur wajah berhasil diekstraksi.
+1/1 [==============================] - 0s 21ms/step
+Nama yang dikenali: Fadh
 ```
 
 ## Challenges and Reflections
