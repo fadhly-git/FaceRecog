@@ -29,13 +29,20 @@ This project focuses on facial recognition using feature extraction and classifi
 
 2. **Create a Conda Environment**:
    ```bash
-   conda create --name face_recognition python=3.8
+   conda create --name face_recognition python=3.9
    conda activate face_recognition
+   ```
+  ```bash
+   conda create --name albumentations python=3.8
+   conda activate albumentations
    ```
 
 3. **Install Required Libraries**:
    ```bash
    pip install -r requirementsDeepface.txt
+   ```
+   ```bash
+   pip install -r requirementsAlbum.txt
    ```
 
 ### Dataset Setup
